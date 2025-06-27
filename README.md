@@ -1,4 +1,4 @@
-# Ideamagix Lecture Scheduling System
+#  Lecture Scheduling System
 
 
 ## 👤 Credentials
