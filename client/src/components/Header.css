@@ -1,0 +1,8 @@
+.logo-text {
+  font-family: 'Arial', sans-serif;
+  color: white;
+}
+
+.logo-text:hover {
+  color: #e2e8f0;
+}
